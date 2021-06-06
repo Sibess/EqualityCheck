@@ -1,0 +1,13 @@
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\EqualityCheck\EqualityCheck\obj\Debug\netcoreapp3.1\EqualityCheck.csprojAssemblyReference.cache
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\EqualityCheck\EqualityCheck\obj\Debug\netcoreapp3.1\EqualityCheck.csproj.CoreCompileInputs.cache
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\EqualityCheck\EqualityCheck\obj\Debug\netcoreapp3.1\EqualityCheck.AssemblyInfoInputs.cache
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\EqualityCheck\EqualityCheck\obj\Debug\netcoreapp3.1\EqualityCheck.AssemblyInfo.cs
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\EqualityCheck\EqualityCheck\bin\Debug\netcoreapp3.1\EqualityCheck.exe
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\EqualityCheck\EqualityCheck\bin\Debug\netcoreapp3.1\EqualityCheck.deps.json
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\EqualityCheck\EqualityCheck\bin\Debug\netcoreapp3.1\EqualityCheck.runtimeconfig.json
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\EqualityCheck\EqualityCheck\bin\Debug\netcoreapp3.1\EqualityCheck.runtimeconfig.dev.json
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\EqualityCheck\EqualityCheck\bin\Debug\netcoreapp3.1\EqualityCheck.dll
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\EqualityCheck\EqualityCheck\bin\Debug\netcoreapp3.1\EqualityCheck.pdb
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\EqualityCheck\EqualityCheck\obj\Debug\netcoreapp3.1\EqualityCheck.dll
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\EqualityCheck\EqualityCheck\obj\Debug\netcoreapp3.1\EqualityCheck.pdb
+C:\Users\Siarhei\Desktop\C# automation learingin\EDU\repos\EqualityCheck\EqualityCheck\obj\Debug\netcoreapp3.1\EqualityCheck.genruntimeconfig.cache
